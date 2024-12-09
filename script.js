@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const namesDisplay = document.getElementById('names-display');
   
     // Liste de noms constants
-    const names = ['JR', 'Antoine', 'Deb', 'Balqis', 'Romain', 'Zoé', 'Lise', 'Chloé', 'Achille', 'Lenah'];
+    const names = ['Litzie', 'Marie-Christine', 'Laura', 'Géraldine', 'Marie', 'Élie', 'Maxime', 'Alexandre', 'Jonathan', 'Vanessa'];
   
     startButton.addEventListener('click', () => {
       const userName = nameInput.value.trim();
